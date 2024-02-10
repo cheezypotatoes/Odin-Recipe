@@ -1,0 +1,41 @@
+/* Reset some default browser styles */
+body, ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the recipe container */
+.recipe {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Style for the recipe title */
+.recipe-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Style for section titles (Ingredients, Steps) */
+.section-title {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+/* Style for the ingredients list */
+.ingredients-list {
+    list-style: none;
+}
+
+/* Style for the steps list */
+.steps-list {
+    list-style: none;
+}
+
+/* Style for step titles */
+.step-title {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
